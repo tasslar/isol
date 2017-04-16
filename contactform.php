@@ -63,10 +63,11 @@ else
 <div id="contact-page">
   <div class="container">
   	<div class="row">
+	<?php print $Message;?>
     	 <div class="col-sm-9 col-xs-12">
           <img src="images/contact-phone.jpg" class="img-responsive"/>
          <br/>
-         <h2>Send your Message<?php print $Message;?></h2>
+         <h2>Send your Message</h2>
           <div class="contact-wrap"> 
                 <div class="status alert alert-success" style="display: none"></div>
                 <p id="mail_message"></p>
