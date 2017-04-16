@@ -1,7 +1,17 @@
 <?php 
 
 include('header.php');
+?>
 
+<div id="contact-page">
+  <div class="container">
+  	<div class="row">
+    	 <div class="col-sm-9 col-xs-12">
+          <img src="images/contact-phone.jpg" class="img-responsive"/>
+         <br/>
+         <h2>Send your Message</h2>
+		 
+<?php
 if($_POST['name']){
 
 
@@ -58,7 +68,9 @@ else
 
 
     }
-
+?>
+</div></div></div></div>
+<?php
 include('footer.php')
 
 ?>
