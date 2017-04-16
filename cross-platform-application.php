@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Cross Platform Application</title>
+<title>Inysol Innovative Technology solutions - Cross Platform Application</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Cross-Platform.jpg" class="img-responsive"></div>
     

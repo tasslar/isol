@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Notifications Management</title>
+<title>Inysol Innovative Technology solutions - Notifications Management</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Notifications-Management.jpg" alt="Content Management Systems"  class="img-responsive"></div>
 

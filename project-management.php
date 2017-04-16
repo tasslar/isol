@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Project Management</title>
+<title>Inysol Innovative Technology solutions - Project Management</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Project-Management.jpg"class="img-responsive"></div>
     

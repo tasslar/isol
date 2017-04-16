@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Java Development</title>
+<title>Inysol Innovative Technology solutions - Java Development</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/java.jpg"class="img-responsive"></div>
     

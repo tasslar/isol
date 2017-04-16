@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - QTP UFT Tester</title>
+<title>Inysol Innovative Technology solutions - QTP UFT Tester</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/QTP-UFT.jpg" class="img-responsive"></div>
     

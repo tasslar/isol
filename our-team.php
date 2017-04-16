@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Our Team</title>
+<title>Inysol Innovative Technology solutions - Our Team</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/our-team.jpg" class="img-responsive" alt="Payment Gateway Integration, API Integration"></div>
 

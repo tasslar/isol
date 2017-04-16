@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Invoice Management</title>
+<title>Inysol Innovative Technology solutions - Invoice Management</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Invoice-Management.jpg" alt="Content Management Systems"  class="img-responsive"></div>
 

@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Our Clients</title>
+<title>Inysol Innovative Technology solutions - Our Clients</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Client-List2.jpg" alt="HTML5 Application Developments" class="img-responsive"></div>
   

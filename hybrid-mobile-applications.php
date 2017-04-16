@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Hybrid Mobile Applications</title>
+<title>Inysol Innovative Technology solutions - Hybrid Mobile Applications</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Hybrid-Mobile-Application.jpg" class="img-responsive"></div>
     

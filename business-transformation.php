@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Business Transformation</title>
+<title>Inysol Innovative Technology solutions - Business Transformation</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Business-Transformation.jpg" class="img-responsive"></div>
     

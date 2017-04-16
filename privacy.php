@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Privacy Policy</title>
+<title>Inysol Innovative Technology solutions - Privacy Policy</title>
 <?php include 'header.php'; ?>
 
 <div class="inner-banner"><img src="images/privacy.jpg" class="img-responsive" alt="Android Application development"></div>

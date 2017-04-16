@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - .Net Development</title>
+<title>Inysol Innovative Technology solutions - .Net Development</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/NET-Development.jpg" class="img-responsive"></div>
     

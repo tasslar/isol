@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Contact</title>
+<title>Inysol Innovative Technology solutions - Contact</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/contact-banner.jpg" alt="contact us" class="img-responsive"></div>
  

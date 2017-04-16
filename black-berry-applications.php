@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Black Berry Application</title>
+<title>Inysol Innovative Technology solutions - Black Berry Application</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Black-Berry-Applications.jpg" class="img-responsive"></div>
     

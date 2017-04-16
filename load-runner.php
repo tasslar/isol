@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Load Runner</title>
+<title>Inysol Innovative Technology solutions - Load Runner</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Load-Runner.jpg" class="img-responsive"></div>
     

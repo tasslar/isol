@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Careers</title>
+<title>Inysol Innovative Technology solutions - Careers</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Career-Opportunity.jpg" class="img-responsive" alt="HTML5 Application Developments"></div>
 

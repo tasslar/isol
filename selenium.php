@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Selenium</title>
+<title>Inysol Innovative Technology solutions - Selenium</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Selenium.jpg"class="img-responsive"></div>
     

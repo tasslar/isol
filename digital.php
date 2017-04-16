@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Digital</title>
+<title>Inysol Innovative Technology solutions - Digital</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Digital.jpg" class="img-responsive"></div>
     

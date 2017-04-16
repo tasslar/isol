@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Recruitment & System Management</title>
+<title>Inysol Innovative Technology solutions - Recruitment & System Management</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Recruitment-System-Management.jpg"   class="img-responsive"></div>
 

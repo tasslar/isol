@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - HRSMS</title>
+<title>Inysol Innovative Technology solutions - HRSMS</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/HRSMS.jpg" alt="Content Management Systems"  class="img-responsive"></div>
 

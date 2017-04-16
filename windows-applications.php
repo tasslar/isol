@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Windows Applications</title>
+<title>Inysol Innovative Technology solutions - Windows Applications</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Windows-Applications.jpg" class="img-responsive"></div>
     

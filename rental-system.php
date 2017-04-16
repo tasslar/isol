@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Rental System</title>
+<title>Inysol Innovative Technology solutions - Rental System</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Rental-System.jpg" alt="Content Management Systems"  class="img-responsive"></div>
 

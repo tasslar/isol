@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Why Inysol</title>
+<title>Inysol Innovative Technology solutions - Why Inysol</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/12.jpg"  class="img-responsive" alt="HTML5 Application Developments"></div>
 

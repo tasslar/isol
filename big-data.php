@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Big Data</title>
+<title>Inysol Innovative Technology solutions - Big Data</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Big-Data.jpg" class="img-responsive"></div>
     

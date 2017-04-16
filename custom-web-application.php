@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Custom Web Application</title>
+<title>Inysol Innovative Technology solutions - Custom Web Application</title>
 <?php include 'header.php'; ?>
 
 <div class="inner-banner"><img src="images/webapps.jpg" alt="Open Source Customization" class="img-responsive"></div>

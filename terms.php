@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Terms</title>
+<title>Inysol Innovative Technology solutions - Terms</title>
 <?php include 'header.php'; ?>
 
 <div class="inner-banner"><img src="images/Terms.jpg" class="img-responsive" alt="Android Application development"></div>

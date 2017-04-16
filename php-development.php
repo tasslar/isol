@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - PHP Development</title>
+<title>Inysol Innovative Technology solutions - PHP Development</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/PHP-Development.jpg"class="img-responsive"></div>
     

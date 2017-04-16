@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Database</title>
+<title>Inysol Innovative Technology solutions - Database</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Database.jpg" class="img-responsive"></div>
     

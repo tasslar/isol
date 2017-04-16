@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Database Architecture</title>
+<title>Inysol Innovative Technology solutions - Database Architecture</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Database-Architecture.jpg" class="img-responsive"></div>
     

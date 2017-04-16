@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Test Complete Tester</title>
+<title>Inysol Innovative Technology solutions - Test Complete Tester</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Test-Complete-Tester.jpg" class="img-responsive"></div>
     

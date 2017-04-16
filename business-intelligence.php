@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Business Intelligence</title>
+<title>Inysol Innovative Technology solutions - Business Intelligence</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Infrastructure.jpg" class="img-responsive"></div>    
     

@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Ecommerce</title>
+<title>Inysol Innovative Technology solutions - Ecommerce</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Ecommerce-banner.jpg" class="img-responsive"></div>    
     

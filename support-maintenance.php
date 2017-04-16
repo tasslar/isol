@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Support Maintenance</title>
+<title>Inysol Innovative Technology solutions - Support Maintenance</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Support-Maintenance.jpg" class="img-responsive"></div>
 

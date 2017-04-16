@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Enterprise Mobility</title>
+<title>Inysol Innovative Technology solutions - Enterprise Mobility</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Enterprise-Mobility-Application.jpg" class="img-responsive"></div>
     

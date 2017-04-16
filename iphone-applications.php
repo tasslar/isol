@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Iphone Applications</title>
+<title>Inysol Innovative Technology solutions - Iphone Applications</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Iphone-Applications.jpg" class="img-responsive"></div>
     

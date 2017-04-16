@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - What We Do</title>
+<title>Inysol Innovative Technology solutions - What We Do</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner">
     <img src="images/what.jpg" class="img-responsive" alt="Android Application development">

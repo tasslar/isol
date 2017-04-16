@@ -7,8 +7,8 @@
 
       <meta name="Description" content="Inysol solutions, an Information Technology and Software Development company with headquarters in USA, UK and INDIA,  specialize in providing development services in all major technologies " />
 
-      <meta name="Author" content="Inysol Innovative Technology Solutions Private Limited" />
-      <meta name="Copyright" content="Inysol Innovative Technology Solutions Private Limited, India" />
+      <meta name="Author" content="Inysol Innovative Technology solutions Private Limited" />
+      <meta name="Copyright" content="Inysol Innovative Technology solutions Private Limited, India" />
       <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
       <meta name="Distribution" content="Global" />
       <meta name="Coverage" content="Worldwide" />
@@ -18,7 +18,7 @@
       <meta name="Revisit-after" content="1 days" />
       <meta name="Googlebot" content="index,follow" />
 
-    <title>Inysol innovative Technology solutions </title>
+    <title>Inysol Innovative Technology solutions </title>
 	
 	<!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

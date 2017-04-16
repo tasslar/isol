@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - SAS</title>
+<title>Inysol Innovative Technology solutions - SAS</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/SAS.jpg" class="img-responsive"></div>
     

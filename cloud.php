@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - Cloud</title>
+<title>Inysol Innovative Technology solutions - Cloud</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/Cloud.jpg" class="img-responsive"></div>
 

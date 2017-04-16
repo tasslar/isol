@@ -1,4 +1,4 @@
-<title>Inysol innovative Technology solutions - E Distribution System</title>
+<title>Inysol Innovative Technology solutions - E Distribution System</title>
 <?php include 'header.php'; ?>
 <div class="inner-banner"><img src="images/E-Distribution-System.jpg" alt="Content Management Systems"  class="img-responsive"></div>
 
