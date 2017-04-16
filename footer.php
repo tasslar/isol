@@ -222,7 +222,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2016 <a target="_blank" href="#" title="InySol">InySol.com</a>. All Rights Reserved.
+                    &copy; 2017 <a target="_blank" href="#" title="InySol">InySol.com</a>. All Rights Reserved.
                 </div>
                  <div class="col-sm-2 social_icon">
                     <a href="https://www.linkedin.com/company/inysol-innovative-solutions" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
