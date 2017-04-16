@@ -59,6 +59,8 @@
                             </div>
                             <div class="row">
                                 <div class="col-xs-1 col-sm-1"></div>
+								<div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
+								
                                 <div class="col-xs-10 col-sm-10"><a href="mailto:info@inysol.com" target="_blank">info@inysol.com</a></div>
                             </div>
                      </div>
