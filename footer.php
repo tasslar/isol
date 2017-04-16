@@ -12,7 +12,8 @@
                         </div>
                     </div>  -->
     	               <p>Have a question or need a custom quote?</p>
-   						 <h2>Phone: +1 (858) 224 5534</h2>
+   						 <h2>Phone: +1  (858) 224 5534</h2>
+						 <h2>Phone: +91 044 - 433 284 99</h2>
                          <a href="contact.php">Contact now</a>
                  </div>
             </div>
