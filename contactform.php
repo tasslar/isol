@@ -6,7 +6,7 @@ include('header.php');
 <div id="contact-page">
   <div class="container">
   	<div class="row">
-    	 <div class="col-sm-9 col-xs-12">
+    	  
           
          <br/>
           
@@ -69,7 +69,7 @@ else
 
     }
 ?>
-</div></div></div></div>
+</div></div></div> 
 <?php
 include('footer.php')
 
