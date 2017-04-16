@@ -23,7 +23,7 @@
     
 
     $email_from = $email;
-    $email_to = 'vihari.k871@gmail.com';//replace with your email
+    $email_to = 'sales@inysol.com';//replace with your email
 
     $body = 'Name: ' . $name . "\n\n" . 'Email: ' . $email . "\n\n" . 'Subject: ' . $subject . "\n\n" . 'Message: ' . $message;
 

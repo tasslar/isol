@@ -14,7 +14,7 @@ if($_POST['name']){
 
 //to mail
 
-$to = "vihari.k871@gmail.com";
+$to = "sales@inysol.com";
 
 
 $message = '<html><body>';
