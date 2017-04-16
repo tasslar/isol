@@ -66,7 +66,7 @@
         <div class="col-sm-12  col-xs-12 services-full-width-text wow fadeInLeft">  
         
         <h4 >Disclaimer: Copyright And Legal Notices</h4>
-        <p> By accessing and using this website, you agree to be bound by the following terms and conditions and the applicable laws. The content of this website, including but not limited to the text, images, and material contained therein and the arrangement thereof are the property of Inysol and are COPYRIGHT © 2005-2009 Inysol ALL RIGHTS RESERVED. All trademarks used or referred to therein are the property of Inysol or of the party credited as the owner.
+        <p> By accessing and using this website, you agree to be bound by the following terms and conditions and the applicable laws. The content of this website, including but not limited to the text, images, and material contained therein and the arrangement thereof are the property of Inysol and are COPYRIGHT © 2005-2017 Inysol ALL RIGHTS RESERVED. All trademarks used or referred to therein are the property of Inysol or of the party credited as the owner.
         
         You may not copy, reproduce, or distribute the content, materials, or any other feature in whole or in part by any means or in any form except in accordance with the following provisions and the applicable laws.
         
