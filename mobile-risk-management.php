@@ -9,7 +9,7 @@
 	                <div class="col-sm-12 services-full-width-text wow fadeInLeft"  style="margin-bottom:0">
 	                    <h3>Mobile Risk Management</h3>
 	                    <p>
-						All organizations need to effectively manage risk to be successful. This may be risk of injury, risk of environmental damage, risk to property damage, or all of the above.  Inysol Innovative Solutions offers mobile risk management solutions that allow staff to identify risk, document it, identify mitigation strategies and record mitigation efforts all electronically and all from the field.  Our mobile risk management solutions are robust and easy to use.
+						All organizations need to effectively manage risk to be successful. This may be risk of injury, risk of environmental damage, risk to property damage, or all of the above.  Inysol Innovative Technology solutions offers mobile risk management solutions that allow staff to identify risk, document it, identify mitigation strategies and record mitigation efforts all electronically and all from the field.  Our mobile risk management solutions are robust and easy to use.
 	                	</p>
                          
 	                </div>

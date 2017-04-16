@@ -18,7 +18,7 @@
                                         <div align="center"><img class="img-responsive" src="images/profile_image_male.jpg" title="Mr.Sant"></div>
                                          <h4 align="center">Mr.Surya devan</h4>
                                   <span align="center">Vice President - Consultant, Sales and Marketing</span>
-                                  <p style="text-align:center">Mr. Surya devan is a Certified Software Tester (VP) and holds a Master’s degree in business Administration from the University of Essex, UK. A true professional in the software sales & digital Marketing field, he has extensive experience of 25 years in the software sales & digital Marketing, working in Inysol Innovative Solutions since 2009 and thereby acquiring an in-depth understanding of Sales & Marketing. He is well experienced in software Testing, evaluating and analyzing strategies and business planning, for different Business Domain.</p>
+                                  <p style="text-align:center">Mr. Surya devan is a Certified Software Tester (VP) and holds a Master’s degree in business Administration from the University of Essex, UK. A true professional in the software sales & digital Marketing field, he has extensive experience of 25 years in the software sales & digital Marketing, working in Inysol Innovative Technology solutions since 2009 and thereby acquiring an in-depth understanding of Sales & Marketing. He is well experienced in software Testing, evaluating and analyzing strategies and business planning, for different Business Domain.</p>
                                     </div>
                                 </div>
                                 
@@ -28,7 +28,7 @@
                                         <div align="center"><img class="img-responsive" src="images/profile_image_male.jpg" title="Mr.Sant"></div>
                                          <h4 align="center">Mr. Nani Prasad</h4>
                                   <span align="center">Head of Technology</span>
-                                  <p> Mr.Nani prasad is a Certified Technical Architect (Head of Technology) and holds a MASTERS IN INTERNET TECHNOLOGIES from the University Of Mumbai, India. A true professional in the Software Technologies field, he has extensive experience of 15 years in the Software Development working in Inysol Innovative Solutions since 2009 and thereby acquiring an in-depth understanding of all Latest Technologies. He is well experienced in Software Development Life cycle, evaluating and analyzing strategies and Preparing High Level documents, business planning, for different Business Domain around the world. </p>
+                                  <p> Mr.Nani prasad is a Certified Technical Architect (Head of Technology) and holds a MASTERS IN INTERNET TECHNOLOGIES from the University Of Mumbai, India. A true professional in the Software Technologies field, he has extensive experience of 15 years in the Software Development working in Inysol Innovative Technology solutions since 2009 and thereby acquiring an in-depth understanding of all Latest Technologies. He is well experienced in Software Development Life cycle, evaluating and analyzing strategies and Preparing High Level documents, business planning, for different Business Domain around the world. </p>
                                     </div>
                                 </div>
                                 
@@ -43,7 +43,7 @@
 
 from Madras university , Chennai. A Professional in HR and Manager in Sales for past 10 years in
 
-Inysol Innovative Solutions since 2009. She is well experienced in HR and Sales Operations . </p>
+Inysol Innovative Technology solutions since 2009. She is well experienced in HR and Sales Operations . </p>
                                     </div>
                                 </div>
                             
@@ -51,7 +51,7 @@ Inysol Innovative Solutions since 2009. She is well experienced in HR and Sales 
                              </div></div>
                         
 	                  <!--  <p>
-	                    We at Inysol Innovative Solutions are proud to have a manpower that leads the organization and its clients towards success. IT Solution is a complex process and knowledgeable IT wizards can only resolve it. The company is proud to have the most talented and creative professionals working in its team.
+	                    We at Inysol Innovative Technology solutions are proud to have a manpower that leads the organization and its clients towards success. IT Solution is a complex process and knowledgeable IT wizards can only resolve it. The company is proud to have the most talented and creative professionals working in its team.
 We have a strong foundation of intellectual capital and result-orientation. The team is a strategic mix of professionals from technology, consulting, business management and client servicing domains.
 
 It includes web designer, web developer, software developer, content writer, graphic designer / visualizer, management professional And Expert Search Engine Optimzer.

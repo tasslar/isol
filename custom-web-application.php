@@ -10,7 +10,7 @@
 	                <div class="col-sm-12 services-full-width-text wow fadeInLeft" style="margin-bottom:0">
 	                    <h3 style="color:#EE2326; text-transform:uppercase;"> Custom Web Application</h3>
 	                    <p>
-                        The simple meaning of the custom website design is to create a website which is based on the requirement of a particular business or client. It's quite necessary to present you business on the web as it is actually on the ground. At Inysol Innovative Solutions we go through the business profile and its background and come up with the unique idea to design and develop the proper website for our clients.
+                        The simple meaning of the custom website design is to create a website which is based on the requirement of a particular business or client. It's quite necessary to present you business on the web as it is actually on the ground. At Inysol Innovative Technology solutions we go through the business profile and its background and come up with the unique idea to design and develop the proper website for our clients.
 We can provide your own custom logo, customized email headers, custom layouts and styles - in fact pretty much anything you can think of that will make your business individual.
 						
 	                	</p>

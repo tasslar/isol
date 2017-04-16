@@ -9,7 +9,7 @@
              <div class="col-sm-12">
              <!--<div class="col-sm-8">-->
               <h3 style="color:#EE2326; text-transform:uppercase;">Digital Marketing Services</h3>
-                        <p>We all know that Digital Marketing Agency is the key to engaging visitors, but at Inysol Innovative Solutions, we also know that identifying the customer irrespective of the channel is crucial to make the precise decisions on how best to interconnect with clients. Our digital marketing services will help you understand the multichannel journey of the visitor and create digital communication strategy to drive sales.</p><wbr />
+                        <p>We all know that Digital Marketing Agency is the key to engaging visitors, but at Inysol Innovative Technology solutions, we also know that identifying the customer irrespective of the channel is crucial to make the precise decisions on how best to interconnect with clients. Our digital marketing services will help you understand the multichannel journey of the visitor and create digital communication strategy to drive sales.</p><wbr />
 
 <p>We deliver complete digital marketing services built on the objectives that staple to you the most. We take considerable time to analyze your business and build a digital strategy to achieve your moneymaking business goals. Being in partnership we can enhance your online growth and even increase your returns.</p><wbr />
 

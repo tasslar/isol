@@ -36,12 +36,12 @@ Through Static websites you can showcase products, services and information in a
 	               With more & more people accessing the World Wide Web everyday instead of the yellow pages, even the small businesses cannot afford to ignore this important, growing media to expose themselves to potential customers. Many web designers charge premium prices for creating web pages thereby limiting many small businesses from maintaining apresence on the Internet.
 
 Our aim is to get your business goals accomplished through your website which will definitely be attractive, easy to navigate, professional looking and fully customized according to your business specific domain.?
-Inysol Innovative Solutions caters to small businesses, Large Organizations and individuals. We believe in straightforward,reliable web page creation at affordable prices – whether you are an individual,business, or organization, we can help create and customize a website according to your particular needs.
+Inysol Innovative Technology solutions caters to small businesses, Large Organizations and individuals. We believe in straightforward,reliable web page creation at affordable prices – whether you are an individual,business, or organization, we can help create and customize a website according to your particular needs.
 
 Professional and Creative Web DesigningLet us create a web site that will promote your business or your personal homepage in a professional and creative way. 
 
 Since your business is unique from your competitors'business, why not have a web site that is unique from your competitors' web site?
-Inysol Innovative Solutions does not use 'Template' and 'fill-in-the-blank' programs to design websites; we start each one from grass root level. 
+Inysol Innovative Technology solutions does not use 'Template' and 'fill-in-the-blank' programs to design websites; we start each one from grass root level. 
 	                    </p>
                        
 	                </div>

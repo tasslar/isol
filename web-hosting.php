@@ -7,7 +7,7 @@
 	                <div class="col-sm-12 services-full-width-text wow fadeInLeft">
 	                    <h3 style="color:#EE2326; text-transform:uppercase;">Web Hosting</h3>
 	                    <p>
-	                    	Inysol Innovative Solutions providing Linux and Windows web hosting service to ecommerce website, dynamic website, static website, Our hosting support both PHP 4.x and PHP 5 hosting, MySQL, ASP, ASP.NET. We also provide domain name registration, affordable Linux hosting as well as windows hosting also we are providing VPS server, Dedicated Window as well as Linux servers.
+	                    	Inysol Innovative Technology solutions providing Linux and Windows web hosting service to ecommerce website, dynamic website, static website, Our hosting support both PHP 4.x and PHP 5 hosting, MySQL, ASP, ASP.NET. We also provide domain name registration, affordable Linux hosting as well as windows hosting also we are providing VPS server, Dedicated Window as well as Linux servers.
 
 We provide Excellent and Level 5 quick support to our all the valuable customers via live chat, via phone, via trouble ticket also we are providing on site support to our client.
 
@@ -17,7 +17,7 @@ If you have simple static HTML website or dynamic website built in php, mysql, a
 	                	</p>
                           <h3 style="color:#EE2326; text-transform:uppercase;">Linux Server Shared Hosting</h3>
 	                    <p>
-	                    	 Inysol Innovative Solutions is offering very affordable Linux Web Hosting solution,
+	                    	 Inysol Innovative Technology solutions is offering very affordable Linux Web Hosting solution,
 
 Linux Shared Hosting is supported for PHP, MySQL, Perl, PHPMyAdmin, Servlet/JSP Tomcat, and Ruby on Rails, Site Builder, Unlimited Add-on, Sub domains, and Parked domains.
 
@@ -36,14 +36,14 @@ Linux Shared Hosting is a wonderful part of Cpanel control. It integrates with C
 	                <div class="col-sm-6 services-half-width-text wow fadeInLeft box2">
 	                    <h3 style="color:#EE2326; text-transform:uppercase;">Linux Reseller Web Hosting</h3>
 	                    <p>
-	         Inysol Innovative Solutions is offering very affordable Linux Reseller Web Hosting Solution
+	         Inysol Innovative Technology solutions is offering very affordable Linux Reseller Web Hosting Solution
 	                    </p>
                        
 	                </div>
 	                <div class="col-sm-6 services-half-width-text wow fadeInUp box4">
 	                     <h3 style="color:#EE2326; text-transform:uppercase;">Windows Server Shared Hosting</h3>
 	                    <p>
-	                    	Inysol Innovative Solutions is offering very affordable Window Server Shared Web Hosting Solution,
+	                    	Inysol Innovative Technology solutions is offering very affordable Window Server Shared Web Hosting Solution,
 	                    </p>
 	                </div>
 	            </div>
@@ -55,7 +55,7 @@ Linux Shared Hosting is a wonderful part of Cpanel control. It integrates with C
 	                <div class="col-sm-6 services-half-width-text wow fadeInLeft box">
 	                    <h3 style="color:#EE2326; text-transform:uppercase;">VPS Server</h3>
 	                    <p>
-Inysol Innovative Solutions is offering very reasonable VPS Server , Virtual Private Server technology presents multiple isolated server environments on a single physical server.
+Inysol Innovative Technology solutions is offering very reasonable VPS Server , Virtual Private Server technology presents multiple isolated server environments on a single physical server.
 
 VPS hosting allow many customers to contribute the expenditure of hardware and network connections without sacrificing privacy, performance or preference. VPS hosting provides the flexibility to add and change software and install your own software along with the features and functionality of a dedicated server without the cost of building and maintaining one. In nearly every perspective you can see a VPS as if it's a dedicated server.
 
@@ -65,13 +65,13 @@ If you need to host unlimited domains account, have complete control of your ser
 	                <div class="col-sm-6 services-half-width-text wow fadeInUp box1">
 	                     <h3 style="color:#EE2326; text-transform:uppercase;">Domain Registration</h3>
 	                    <p>
-	                    	We at Inysol Innovative Solutions providing all types extension of domain registration.
+	                    	We at Inysol Innovative Technology solutions providing all types extension of domain registration.
 
 We are connected with the major domain registrar in India. This enables us to offer domain name registration services at a very affordable cost. We offer registration services with many top registrars around the world.
 
 This enables us easy registration of country level domains and other quality domains and also renewal and transfer of domain names. 
 
-At present Inysol Innovative Solutions providing following domain registrations.
+At present Inysol Innovative Technology solutions providing following domain registrations.
 	                    </p>
 	                </div>
 	            </div>

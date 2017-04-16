@@ -9,11 +9,11 @@
 	                <div class="col-sm-12 services-full-width-text wow fadeInLeft">
 	                    <h3 style="color:#EE2326; text-transform:uppercase;">Support</h3>
 	                    <p>
-	                   Inysol Innovative Solutions provide a complete range of IT Support, Network Installation and Web Design & Marketing services .We provide Excellent and Level 5 quick support to our all the valuable customers via live chat, via phone, via trouble ticket also we are providing on site support to our client.
+	                   Inysol Innovative Technology solutions provide a complete range of IT Support, Network Installation and Web Design & Marketing services .We provide Excellent and Level 5 quick support to our all the valuable customers via live chat, via phone, via trouble ticket also we are providing on site support to our client.
 
 Currently we are maintaining more than 100 domains in our server of different countries like of India, UK, Dubai, and Japan. We provide Cpanel interface for Linux Shared Web hosting and HELM for Windows Web hosting as control panel.
 
-At Inysol Innovative Solutions we are providing Linux and Windows web hosting service to ecommerce website, dynamic website, static website, Our hosting support both PHP 4.x and PHP 5 hosting, MySQL, ASP, ASP.NET. We also provide domain name registration, affordable Linux hosting as well as windows hosting also we are providing VPS server, Dedicated Window as well as Linux servers.
+At Inysol Innovative Technology solutions we are providing Linux and Windows web hosting service to ecommerce website, dynamic website, static website, Our hosting support both PHP 4.x and PHP 5 hosting, MySQL, ASP, ASP.NET. We also provide domain name registration, affordable Linux hosting as well as windows hosting also we are providing VPS server, Dedicated Window as well as Linux servers.
 
 Each support service set is specific for each client. We have a team of dedicated web developers and designers who help us to deliver quality output to our clients.
 	                	</p>

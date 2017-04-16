@@ -9,7 +9,7 @@
 	                    <h3 style="color:#EE2326; text-transform:uppercase;">Logo Design</h3> 
 	                    <p>
  We're an Web Development agency that specializes in logo design, website design, and business branding.  Our entire mission is to make your business look great. That means giving you custom design that's affordable, fast, and hassle-free.A logo is a visual representation of the brand or organization, and designing a logo is primarily a process of working towards communicating the essence of the brand graphically, effectively. The logo is not just a graphic but it is the embodiment of an organization - of its area of work, it's ethos, its core values and so on.
-Inysol Innovative Solutions can develop your brand in your market by creating the perfect logo design. We assists you in creating your first positive impression. Our logo design team comprises of best logo designers in the industry who help you communicate your image clearly and powerfully to your intended target audience.
+Inysol Innovative Technology solutions can develop your brand in your market by creating the perfect logo design. We assists you in creating your first positive impression. Our logo design team comprises of best logo designers in the industry who help you communicate your image clearly and powerfully to your intended target audience.
 
 
 	                	</p>
@@ -27,7 +27,7 @@ Inysol Innovative Solutions can develop your brand in your market by creating th
 	                    <h3 style="color:#EE2326; text-transform:uppercase;">Why Choose</h3>
 	                    <p>
 						
-Inysol Innovative Solutions make professional websites for your way and use our website design and development experience to your business and more popularity in your profession. We offer a wide range of website design and development,What we design is a direct reflection of your brand, we aim for each experience to be purposely built and engaging. From logo development, packaging, environmental design, annual reports to national campaigns - our focus is to ensure the audience is listening. By defining a brand's graphic vision, we craft innovative visual stories that attract the target audience and create long term success.
+Inysol Innovative Technology solutions make professional websites for your way and use our website design and development experience to your business and more popularity in your profession. We offer a wide range of website design and development,What we design is a direct reflection of your brand, we aim for each experience to be purposely built and engaging. From logo development, packaging, environmental design, annual reports to national campaigns - our focus is to ensure the audience is listening. By defining a brand's graphic vision, we craft innovative visual stories that attract the target audience and create long term success.
 
  
 	                	</p>

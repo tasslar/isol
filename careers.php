@@ -11,7 +11,7 @@
 	                <div class="col-sm-12 services-full-width-text wow fadeInLeft">
 	                    <h3 style="color:#EE2326; text-transform:uppercase;"> Career Opportunity</h3>
 	                    <p>
-	                    We Inysol Innovative Solutions focus on providing best possible service to every single client. Our greatest assets are our employees and we invite like-minded people to join us and help us grow. We appreciate creativity, brilliance and hard work. Innovative ideas are always welcomed in our company.
+	                    We Inysol Innovative Technology solutions focus on providing best possible service to every single client. Our greatest assets are our employees and we invite like-minded people to join us and help us grow. We appreciate creativity, brilliance and hard work. Innovative ideas are always welcomed in our company.
 
 We believe in encouraging our employees so that they can work at their best and give us the finest performance. We even reward our employees according to their performance. If you are looking for a satisfying job in a fast-growing web development company that offers good medium of exchange and amazing insentives along with excellent technical satisfaction
 
