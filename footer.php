@@ -1,21 +1,7 @@
 	<section id="conatcat-info">
           <div class="container">
             <div class="row">
-                <div class="col-sm-12">
-                  <!--  <div class="media contact-info wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                     <div class="pull-left">
-                            <i class="fa fa-phone"></i>
-                        </div> 
-                        <div class="media-body">
-                            <h2>Have a question or need a custom quote? </h2>
-							<h2 class="phonenumbe" style="font-size: 30px;">Phone: +1 (858) 224 5534</h2>
-                        </div>
-                    </div>  -->
-    	               <p>Have a question or need a custom quote?</p>
-   						 <h2>Phone: +1  (858) 224 5534</br></h2>
-						 <h2>Phone: +91 44 - 433 284 99</h2>
-                         <a href="contact.php">Contact now</a>
-                 </div>
+                
             </div>
         </div> <!--/.container-->    
     </section><!--/#conatcat-info-->
