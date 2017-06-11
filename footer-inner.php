@@ -150,7 +150,7 @@
                          
                             <div class="row">
                                 <div class="col-xs-2 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"><p>+91-90042 47476</p></div>
+                                <div class="col-xs-10 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"><p>+91-99630 58571</p></div>
                             </div>
                             <div class="row">
                                 <div class="col-xs-2 col-sm-1" style="text-indent:-9999px;"> .</div>
