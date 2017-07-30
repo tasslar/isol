@@ -93,7 +93,7 @@
 							
 							<div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10"><a href="mailto:sales@inysol.com" target="_blank">ragu@inysol.com</a></div>
+                                <div class="col-xs-10 col-sm-10"><a href="mailto:ragu@inysol.com" target="_blank">ragu@inysol.com</a></div>
                             </div>
 							
 							
@@ -116,6 +116,13 @@
 								<div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
 								<div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91-73583 03167</p></div>
 								
+								
+								<div class="row">
+                                <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
+                                <div class="col-xs-10 col-sm-10"><a href="mailto:shmi@inysol.com" target="_blank">shmi@inysol.com</a></div>
+                            </div>
+							
+							
 								
 <!--<div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i> 
 <div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"><p>+91-73583 03167</p></div>
