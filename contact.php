@@ -137,21 +137,21 @@
                             <h3 style="margin-top:10px;">Zone#1 Office &nbsp;<img src="images/india-flag.jpg" /></h3> 
                            <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"> <p>101, Silver Heights<br/>
-                            Sundar Nagar, Kalina, <br/>
-                            Mumbai 400029, India</p>
+                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"> <p>#4,<br/>
+                            Naghu Nagar, Bethaniapuram, <br/>
+                            Madurai 625016, India</p>
                                 </div>
                                 </div>
                          
                             <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91-99630 58571</p></div>
+                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91 95858 82159</p></div>
                             </div>
 							
 							
 							<div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10"><a href="mailto:ragu@inysol.com" target="_blank">ragu@inysol.com</a></div>
+                                <div class="col-xs-10 col-sm-10"><a href="mailto:vijay@inysol.com" target="_blank">vijay@inysol.com</a></div>
                             </div>
 							
 							
