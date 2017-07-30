@@ -53,6 +53,13 @@
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
                                 <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+1 (858) 224 5534</p> </div>
                             </div>
+							
+							<div class="row">
+                                <div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
+                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91 7299299082</p> </div>
+                            </div>
+							
+							
                             <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
                                 <div class="col-xs-10 col-sm-10"><a href="mailto:sales@inysol.com" target="_blank">sales@inysol.com</a></div>
