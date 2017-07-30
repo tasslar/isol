@@ -144,7 +144,7 @@
                                 <div class="col-xs-11 col-sm-11"><a href="mailto:sales@inysol.com" target="_blank">sales@inysol.com</a></div>
                             </div>
                             <div class="row">
-                                <div class="col-xs-1 col-sm-1"></div>
+                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
                                 <div class="col-xs-11 col-sm-11"><a href="mailto:info@inysol.com" target="_blank">info@inysol.com</a></div>
                             </div>
                             
