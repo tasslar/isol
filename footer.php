@@ -275,8 +275,8 @@
                 </div>
                  <div class="col-sm-2 social_icon">
                     <a href="https://www.linkedin.com/company/inysol-innovative-solutions" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://www.facebook.com/Inysol"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/Inysol_Official"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                 </div>
                 <div class="col-sm-4">
                     <ul class="pull-right">
