@@ -122,7 +122,7 @@
                                     <li><a href="invoice-management.php">Invoice Management</a></li>
                                     <li><a href="notifications-management.php">Notifications Management</a></li>
                                     <li><a href="recruitment-system-management.php">Recruitment system & Management</a></li>
-                                    <li><a href="healthcare-system.php">Healthcare System</a></li>
+                                    <li><a href="hospital-management-system-erp-chennai.php">Healthcare System</a></li>
                               </ul>
                         </li>
 						 <li class="dropdown">
