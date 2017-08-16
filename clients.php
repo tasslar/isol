@@ -21,9 +21,7 @@
                         <!--<div class="col-sm-3 logos">
                         <span title="Viapaise"> Viapaise.com</span>
                         </div>-->
-                         <div class="col-sm-4 logos">                        
-                        <img src="images/topadsindia.jpg" title="topadsindia" alt="Topadsindia" class="img-responsive">
-                        </div>
+                          
                          <div class="col-sm-4 logos">
                         <img src="images/healthtechnologyforum.png" title="healthtechnologyforum" alt="Healthtechnologyforum" class="img-responsive">
                         </div>
@@ -145,7 +143,9 @@
                          <div class="col-sm-4 logos">
                         <img src="images/adplus.jpg" title="rockrush" alt="Rockrush" class="img-responsive">
                         </div>
-                         
+                         <div class="col-sm-4 logos">
+                        <img src="images/Topsuppz.jpg" title="rockrush" alt="Rockrush" class="img-responsive">
+                        </div>
                      </div>
   
                         
