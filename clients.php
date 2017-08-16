@@ -145,9 +145,7 @@
                          <div class="col-sm-4 logos">
                         <img src="images/adplus.jpg" title="rockrush" alt="Rockrush" class="img-responsive">
                         </div>
-                         <div class="col-sm-4 logos">
-                        <img src="images/Topsuppz.jpg" title="rockrush" alt="Rockrush" class="img-responsive">
-                        </div>
+                         
                      </div>
   
                         
