@@ -11,9 +11,7 @@
 	                    <!--<div class="col-sm-3 logos">
 						<img src="images/trendtwo.png" title="trendtwo" alt="Trendtwo">
                         </div>-->
-                         <div class="col-sm-4 logos">
-                        <img src="images/solidcodeus.png" title="solidcodeus" alt="Solidcodeus" class="img-responsive">
-                        </div>
+                          
                          <div class="col-sm-4 logos">
                         <img src="images/360healthlondon.png" title="360healthlondon" alt="360healthlondon" class="img-responsive">
                         </div>
@@ -48,9 +46,7 @@
                          <!--<div class="col-sm-3 logos">
                         <span title="caterpino">Caterpino.com</span>
                         </div>-->
-                         <div class="col-sm-4 logos">
-                        <img src="images/onlinedonation.png" title="onlinedonation" alt="Onlinedonation" class="img-responsive">
-                        </div>
+                          
                         
                          <!--<div class="col-sm-3 logos">
                         <span title="papillode">Papillode.com</span>
@@ -129,9 +125,7 @@
                          <div class="col-sm-4 logos">                        
                         <img src="images/kmtradingindia.png" title="kmtradingindia" alt="kmtradingindia" class="img-responsive">
                         </div>
-                         <div class="col-sm-4 logos">
-                        <img src="images/calamity.png" title="calamity" alt="calamity" class="img-responsive">
-                        </div>    
+                        
                         <div class="col-sm-4 logos">
                         <img src="images/meaww.png" title="meaww" alt="meaww" class="img-responsive">
                         </div>                  
