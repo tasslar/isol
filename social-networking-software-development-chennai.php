@@ -9,7 +9,7 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
               <h3>Social Media Development India</h3>
-                        <p>Tasstechnologies is an outsourcing company that provides its expertise in exceptional Social Networking Development in India, among many other services.</p>
+                        <p>Inysol Innovative Technology Solutions  is an outsourcing company that provides its expertise in exceptional Social Networking Development in India, among many other services.</p>
                         
                         <h3>Social Network Development India</h3>
                         <p>Our developer teams are familiar with the nitty-gritty of popular social networking platforms such as - Facebook, Twitter, MySpace, Orkut etc. Thus, they are well equipped for feature rich Social Networking Web Development.</p>
@@ -39,7 +39,7 @@
    <li>Forums/Groups</li>
    <li> Complete Order to Cash and Procure to Pay Workflows</li>
 </ul>  
-<p>Tasstechnologies has prior experience in Community Site Development. With our competent spirit, we have successfully developed social networking websites for our clients. We provide you more options than you can ever imagine. Avail the best community based web services as per your requirements at an affordable price, only at Tasstechnologies.</p>    
+<p>Inysol Innovative Technology Solutions  has prior experience in Community Site Development. With our competent spirit, we have successfully developed social networking websites for our clients. We provide you more options than you can ever imagine. Avail the best community based web services as per your requirements at an affordable price, only at Inysol Innovative Technology Solutions .</p>    
              
 						<h3>Social Network Software</h3>
                                       

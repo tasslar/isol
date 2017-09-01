@@ -28,10 +28,10 @@ $message .= "</table>";
 $message .= "</body></html>";
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-$headers .= 'From:contact@tasstechnologies.com'. "\r\n";
+$headers .= 'From:contact@Inysol Innovative Technology Solutions .com'. "\r\n";
 
 //cc
-//$headers .= 'Cc: tasstechnologies@gmail.com' . "\r\n";
+//$headers .= 'Cc: Inysol Innovative Technology Solutions @gmail.com' . "\r\n";
 
 //contactus mail
 

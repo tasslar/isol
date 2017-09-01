@@ -9,14 +9,14 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
               <h3>Online Booking Management System</h3>
-                        <p>Tasstechnologies is the leading online booking system designed specifically for tour, activity, excursion, sightseeing, and adventure businesses. Tasstechnologies provides tourism businesses with the ability to take on-line bookings, process payments, and manage customers. If you are using an online booking software that is not meeting your needs, is designed for accommodations or general appointments, you should consider switching to Tasstechnologies ERP, the only system designed especially for tours and activities.</p>
+                        <p>Inysol Innovative Technology Solutions  is the leading online booking system designed specifically for tour, activity, excursion, sightseeing, and adventure businesses. Inysol Innovative Technology Solutions  provides tourism businesses with the ability to take on-line bookings, process payments, and manage customers. If you are using an online booking software that is not meeting your needs, is designed for accommodations or general appointments, you should consider switching to Inysol Innovative Technology Solutions  ERP, the only system designed especially for tours and activities.</p>
 
 <h4>WHAT CAN ONLINE BOOKING SOFTWARE DO FOR ME?</h4>
 <p>According to research, over 57% of travellers book their travel online. If you do not offer your customers the ability to book your tours or activities in real-time, you are missing out on valuable revenue, not to mention guaranteed bookings.</p>
 
-<p>If you are a tour or activity business that operates daily, recurring, or fixed departure date tours (such as a group tour), then Tasstechnologies is likely a good fit for you. Tasstechnologies instantly gives your business website a professional and secure booking engine complete with the ability to process payments to your PayPal or bank account, printable or mobile vouchers, notification emails, and more.</p>
+<p>If you are a tour or activity business that operates daily, recurring, or fixed departure date tours (such as a group tour), then Inysol Innovative Technology Solutions  is likely a good fit for you. Inysol Innovative Technology Solutions  instantly gives your business website a professional and secure booking engine complete with the ability to process payments to your PayPal or bank account, printable or mobile vouchers, notification emails, and more.</p>
 
-<p>The reason why Tasstechnologies is a leading online booking software is because it is specialized for particular businesses. In order to be the best at something, we believe you have to be focused, and you have to be passionate about your specialty. For the most part, our customers are very specialized, they do one or maybe two things really well and they are looking for a technology solution that is built the same way.</p>
+<p>The reason why Inysol Innovative Technology Solutions  is a leading online booking software is because it is specialized for particular businesses. In order to be the best at something, we believe you have to be focused, and you have to be passionate about your specialty. For the most part, our customers are very specialized, they do one or maybe two things really well and they are looking for a technology solution that is built the same way.</p>
 
 <h3>Online Booking Management System Modules</h3>   
 
@@ -29,13 +29,13 @@
     <p style="padding-left:5%;">6.Events</p>
     <p style="padding-left:5%;">7.Chamber of commerce/Board of Trades</p>
     <p style="padding-left:5%;">8.Destination Marketing Organizations or Convention & Visitor Bureaus</p>
-<p>Even though these operators may seem completely different from each other, there is a common characteristic that allows Tasstechnologies to work well for all of them. The Tasstechnologies online booking software is very well suited to any business that offers tours, activities, events, and excursions that are:</p>
+<p>Even though these operators may seem completely different from each other, there is a common characteristic that allows Inysol Innovative Technology Solutions  to work well for all of them. The Inysol Innovative Technology Solutions  online booking software is very well suited to any business that offers tours, activities, events, and excursions that are:</p>
  
 <ul>
                         
    <li>Scheduled (daily, repetitive, or fixed start date).</li>
    <li>Fixed availability (seats, tickets, etc.).</li>
-   <li>If your business offers this kind of service, then Tasstechnologies will be a great fit for you.</li>
+   <li>If your business offers this kind of service, then Inysol Innovative Technology Solutions  will be a great fit for you.</li>
 </ul>                   
 						<h3>Online Booking Management System Demo</h3>
                       

@@ -9,9 +9,9 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
               <h3>Finance Management System India</h3>
-                        <p>Tasstechnologies financial management software solutions is used by thousands of organizations to manage their accounting needs. Tasstechnologies financial software accelerates your financial close, provides strong expense management, offers streamlined and auditable revenue management and ensures complete real time visibility into the financial performance of the entire business.</p>
+                        <p>Inysol Innovative Technology Solutions  financial management software solutions is used by thousands of organizations to manage their accounting needs. Inysol Innovative Technology Solutions  financial software accelerates your financial close, provides strong expense management, offers streamlined and auditable revenue management and ensures complete real time visibility into the financial performance of the entire business.</p>
                         
-                        <p>Because Tasstechnologies financial management seamlessly integrates with all netsuite order management, inventory, CRM and E-commerce functions to streamline critical business processes, such as quote-to-cash, and everyone works from a single source of finance, sales and customer data.</p>
+                        <p>Because Inysol Innovative Technology Solutions  financial management seamlessly integrates with all netsuite order management, inventory, CRM and E-commerce functions to streamline critical business processes, such as quote-to-cash, and everyone works from a single source of finance, sales and customer data.</p>
 
 <h3>Finance Management System Software</h3>
 <ul>

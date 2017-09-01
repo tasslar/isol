@@ -9,7 +9,7 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
               <h3>Trading Portal Development India</h3>
-              <p>Tasstechnologies offers organizations with opportunities to exploit new channels for selling their products and services by developing various kinds of online trading portals which now a days are emerging as the new enterprise application paradigms.
+              <p>Inysol Innovative Technology Solutions  offers organizations with opportunities to exploit new channels for selling their products and services by developing various kinds of online trading portals which now a days are emerging as the new enterprise application paradigms.
 
 Online trading portals are carrying strong potential of attracting large global community of sellers and buyers as are becoming a mean of supplement and spread of their area of operations. The ever-changing information technologies keep bringing new opportunities for businesses to streamline their operations, improve their business interactions, optimizes their costs and thus get critical competitive advantages which can be obtained by using such kind of web portals.
 

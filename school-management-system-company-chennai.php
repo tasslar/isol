@@ -10,7 +10,7 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
               <h3>School Management System India</h3>
-                        <p>Tasstechnologies School is an ERP Solutions specially designed and developed for different kinds of Educational Institutions after in-house and field research of more than six years. It is similarly useful for schools, colleges, institutions and training centers.</p>
+                        <p>Inysol Innovative Technology Solutions  School is an ERP Solutions specially designed and developed for different kinds of Educational Institutions after in-house and field research of more than six years. It is similarly useful for schools, colleges, institutions and training centers.</p>
 
 <p>It makes easy the organization with hectic manual record keeping tasks. It is easy to generate summaries, reminders and reports related to the students, staff, fee, examination etc. It empowers not only the organizations but also the parents and the students hence improve the channel between different stake holders of the organization.</p>
 

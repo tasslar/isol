@@ -9,7 +9,7 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
               <h3>News Portal Development India</h3>
-              <p>News Portal is an online communication medium for internet users which are read all over the world. Tasstechnologies a leading Web Development company, provide an appealing and efficient news portal development services.
+              <p>News Portal is an online communication medium for internet users which are read all over the world. Inysol Innovative Technology Solutions  a leading Web Development company, provide an appealing and efficient news portal development services.
 
 The news portal development allows to publish publications, press releases, columns, articles, blogs and other news related content. We create and develop innovative website, bespoke and modern style portals with content management system (CMS). We provide user-friendly website designs in order to navigate easily for potential readers along with SEO concepts for higher visibility in page rankings.</p>
               
@@ -35,7 +35,7 @@ The news portal development allows to publish publications, press releases, colu
               </ul>
               
               <h3>Online News Website India</h3>
-              <p>Tasstechnologies is a professional web development company and provides excellent news portal development services, implementing new and advanced features. Our professional team of web developers is enthusiastic and energetic in creating variant website components.</p>              
+              <p>Inysol Innovative Technology Solutions  is a professional web development company and provides excellent news portal development services, implementing new and advanced features. Our professional team of web developers is enthusiastic and energetic in creating variant website components.</p>              
              <p>News Portal Development Chennai - News Portal Development India - <strong>News Website Development Chennai - News Website Development India - Online News Portal Development Chennai - Online News Portal Development India - Tamil News Portal Development Chennai - Telgu News Portal Development India - Hindi News Portal Development India - Kannada News Portal Development India - Malayalam News Portal Development India</strong></p>
               <div id="thanks"></div>
                     <style>textarea.form-control { height: 150px; }</style>

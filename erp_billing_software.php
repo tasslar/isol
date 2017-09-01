@@ -9,7 +9,7 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
               <h3>ERP for Trading Business</h3>
-                        <p>Tasstechnologies billing ERP is a great billing / invoice software for any business. Whether you're sending bills for your professional services, running a retail store, invoicing customers for repair work, or running an Internet business, Tasstechnologies billing can simplify your billing and save you time and money.</p>
+                        <p>Inysol Innovative Technology Solutions  billing ERP is a great billing / invoice software for any business. Whether you're sending bills for your professional services, running a retail store, invoicing customers for repair work, or running an Internet business, Inysol Innovative Technology Solutions  billing can simplify your billing and save you time and money.</p>
 
 <p>Software designed to handle time and billing tracking as well as invoicing customers for services and products. Billing software can track the expenses associated with projects or clients.</p>
 

@@ -9,7 +9,7 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
              <h3>Visa Processing System India</h3>
-                        <p>Tasstechnologies, a leading technology enterprise aims to empower the industry professionals with essential technological tools required to run their travel businesses smoothly. It is one of the famous recognized and well trusted software brands in the travel industry and Tasstechnologies ERP is now making this comprehensive tracking system available for its clients across the industry.</p>
+                        <p>Inysol Innovative Technology Solutions , a leading technology enterprise aims to empower the industry professionals with essential technological tools required to run their travel businesses smoothly. It is one of the famous recognized and well trusted software brands in the travel industry and Inysol Innovative Technology Solutions  ERP is now making this comprehensive tracking system available for its clients across the industry.</p>
                         
                         <h4>SIMPLIFYING THE VISA PROCCESSING:</h4>
 

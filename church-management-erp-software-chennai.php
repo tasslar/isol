@@ -9,7 +9,7 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
               <h3>Church Management System India</h3>
-                        <p>Tasstechnologies Franchise Management System is perfect for any franchise business. It allows a franchise business to monitor and control every operation you need it to. Tasstechnologies can bring this convenience right to your fingertips. This system was designed to be optimizable so it can grow as your business grows. More importantly however, our software as a service is fully customizable to the specific needs of your franchise business. Tasstechnologies simplifies the nature of running a franchise business whether you are dealing with one unit or thousands.</p>
+                        <p>Inysol Innovative Technology Solutions  Franchise Management System is perfect for any franchise business. It allows a franchise business to monitor and control every operation you need it to. Inysol Innovative Technology Solutions  can bring this convenience right to your fingertips. This system was designed to be optimizable so it can grow as your business grows. More importantly however, our software as a service is fully customizable to the specific needs of your franchise business. Inysol Innovative Technology Solutions  simplifies the nature of running a franchise business whether you are dealing with one unit or thousands.</p>
 
 <h3>Church Management System Modules</h3>
 <ul class="list">

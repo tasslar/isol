@@ -30,7 +30,7 @@ WordPress sites are search engine friendly. Its structure is embedded with a sel
               <h4>ADDITIONAL PLUG-INS AND THEMES</h4>
              <p>WordPress offers plenty of plug-ins and themes that is important for interface and navigation of your site. They are customizable for user requirements with downloading options.</p>
              <h3>Wordpress Plugin Development India</h3>
-             <h4>WORDPRESS SERVICES OFFERED BY TASSTECHNOLOGIES</h4>
+             <h4>WORDPRESS SERVICES OFFERED BY Inysol Innovative Technology Solutions </h4>
              <ul>             
 			<li>WordPress Implementation & Setup</li>
 			<li>WordPress Integration with Existing Website</li>

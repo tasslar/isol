@@ -17,7 +17,7 @@
               <p>Web Design is something beyond technique. A website is often the first impression of a company for any customer, hence you need to consider many aspects in order to develop a professional, imposing and instinctive site. The custom website we design will convey the strongest image to your client's desire.</p>
               
               <h3>Website Development Company India</h3>
-              <p>The professional & creative designing team at Tasstechnologies aims at providing you the edge you need to put yourself strongly in the competition. Our custom website design service would give you an opportunity to help you & your business become a major Internet success. And your success will make us proud.</p>
+              <p>The professional & creative designing team at Inysol Innovative Technology Solutions  aims at providing you the edge you need to put yourself strongly in the competition. Our custom website design service would give you an opportunity to help you & your business become a major Internet success. And your success will make us proud.</p>
              <p>web design company chennai - web design company india - <strong>web development company chennai - web development company india - website development company india - website development company chennai - joomla web development company chennai - joomla web development company india</strong></p>
              <div id="thanks"></div>
                     <style>textarea.form-control { height: 150px; }</style>

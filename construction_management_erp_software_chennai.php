@@ -11,11 +11,11 @@
               <h3>Construction Management System India</h3>
                         <p>Our Construction Management System is specifically designed to optimize the way a construction company operates in order to ensure continued success even as the company changes and grows.</p>
 
-<p>Using Tasstechnologies ERP, your organizations can combine several functions into a logical, integrated system that facilitates the flow of informations across your organization.</p>
+<p>Using Inysol Innovative Technology Solutions  ERP, your organizations can combine several functions into a logical, integrated system that facilitates the flow of informations across your organization.</p>
 
-<p>Tasstechnologies ERP is designed using a centralized database that facilitates the modelling and automation of basic processes across your organization, eliminating the need for disparate systems maintained by various units of the organizations.</p>
+<p>Inysol Innovative Technology Solutions  ERP is designed using a centralized database that facilitates the modelling and automation of basic processes across your organization, eliminating the need for disparate systems maintained by various units of the organizations.</p>
 
-<p>As with any framework, a strong base is where it all begins, The Tasstechnologies ERP Construction Management Software leverages over 7 years of experience in project management and accounting software to ensure that core project management and accounting functions are interwined throughout the entire product architecture.</p>
+<p>As with any framework, a strong base is where it all begins, The Inysol Innovative Technology Solutions  ERP Construction Management Software leverages over 7 years of experience in project management and accounting software to ensure that core project management and accounting functions are interwined throughout the entire product architecture.</p>
 
 <p>The supporting structure allows for the addition of targeted and crucially important, functionality. All these modules are tightly integrated to the project management and accounting modules ensuring consistent operations throughout your organization all while using the same user interface.</p>
 

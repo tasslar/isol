@@ -9,7 +9,7 @@
              <div class="col-sm-12">
               <div class="col-sm-8">
               <h3>ERP for Trading Business</h3>
-                        <p>TassTechnologies ERP system is a leading web-based enterprise solution for all your trading business. This ERP package consists of integrated business application with better decision making-tools. TassTechnologies ERP system provides an end-to-end solution that organizes and controls every aspect of business from order management, operations, supply-chain and logistics, to documentation, accounting and business intelligence reporting.</p>
+                        <p>Inysol Innovative Technology Solutions  ERP system is a leading web-based enterprise solution for all your trading business. This ERP package consists of integrated business application with better decision making-tools. Inysol Innovative Technology Solutions  ERP system provides an end-to-end solution that organizes and controls every aspect of business from order management, operations, supply-chain and logistics, to documentation, accounting and business intelligence reporting.</p>
 
 <p>Our system enables your back-office to work more effectively, helps improve customer service, empowers your sales team to monitor trends, and manage true order profitability. All while providing the best financial control that you can expect from a web-based application.</p> 
 <h3>ERP for Trading Business Modules</h3>
