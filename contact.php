@@ -76,7 +76,7 @@
                      </div>
                             <!-- -->
                          <div class="contact-address">       
-                            <h3 style="margin-top:10px;">Zone#1 Office &nbsp;<img src="images/india-flag.jpg" /></h3> 
+                            <h3 style="margin-top:10px;">Office –  Mumbai &nbsp;<img src="images/india-flag.jpg" /></h3> 
                            <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
                                 <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"> <p>101, Silver Heights<br/>
@@ -87,7 +87,7 @@
                          
                             <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91-99630 58571</p></div>
+                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+919004247476</p></div>
                             </div>
 							
 							
@@ -100,12 +100,12 @@
                           </div>   
                              <!-- -->
                              <div class="contact-address">  
-                             <h3 style="margin-top:10px;">Zone#2 Office &nbsp;<img src="images/india-flag.jpg" /></h3> 
+                             <h3 style="margin-top:10px;">Office-Madurai &nbsp;<img src="images/india-flag.jpg" /></h3> 
                          <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif">  <p>Sipcot IT Park, 
-                            Siruseri,<br/>
-                            Chennai 603103, India</p>
+                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif">  <p>#4,Naghu nagar, 
+                            Bethanmiapuram,<br/>
+                            Madurai 625016, India</p>
                                 </div>
                                 </div>
                         
@@ -114,12 +114,12 @@
                                 <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>044 - 433 284 99</p></div>
 								
 								<div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-								<div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91-73583 03167</p></div>
+								<div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91 95858 82159</p></div>
 								
 								</div>
 								<div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10"><a href="mailto:shmi@inysol.com" target="_blank">shmi@inysol.com</a></div>
+                                <div class="col-xs-10 col-sm-10"><a href="mailto:shmi@inysol.com" target="_blank">vijay@inysol.com</a></div>
                             </div>
 							
 							
@@ -134,24 +134,26 @@
 							  
 							   <!-- -->
                          <div class="contact-address">       
-                            <h3 style="margin-top:10px;">Zone#3 Office &nbsp;<img src="images/india-flag.jpg" /></h3> 
+                            <h3 style="margin-top:10px;">Global Delivery Centre &nbsp;<img src="images/india-flag.jpg" /></h3> 
                            <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"> <p>#4,<br/>
-                            Naghu Nagar, Bethaniapuram, <br/>
-                            Madurai 625016, India</p>
+                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"> <p>Sipcot IT Park, 
+                            Siruseri, <br/>
+                            Chennai 603103</p>
                                 </div>
                                 </div>
                          
                             <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91 9159520924</p></div>
+                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91 44 233 284 99</p></div>
+                                <div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
+                                <div class="col-xs-10 col-sm-10" style="font-family:Arial, Helvetica, sans-serif"><p>+91 73583 03167</p></div>
                             </div>
 							
 							
 							<div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
-                                <div class="col-xs-10 col-sm-10"><a href="mailto:vijay@inysol.com" target="_blank">vijay@inysol.com</a></div>
+                                <div class="col-xs-10 col-sm-10"><a href="mailto:vijay@inysol.com" target="_blank">shmi@inysol.com</a></div>
                             </div>
 							
 							

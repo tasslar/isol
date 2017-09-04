@@ -31,9 +31,6 @@
                                   <p> Mr.Nani prasad is a Certified Technical Architect (Head of Technology) and holds a MASTERS IN INTERNET TECHNOLOGIES from the University Of Mumbai, India. A true professional in the Software Technologies field, he has extensive experience of 15 years in the Software Development working in Inysol Innovative Technology solutions since 2009 and thereby acquiring an in-depth understanding of all Latest Technologies. He is well experienced in Software Development Life cycle, evaluating and analyzing strategies and Preparing High Level documents, business planning, for different Business Domain around the world. </p>
                                     </div>
                                 </div>
-                                
-                                
-                              
                                 <div class="col-sm-4 services-full-width-text wow fadeInLeft">
                                     <div class="white-bg">
                                         <div align="center"><img class="img-responsive" src="images/profile_image_male.jpg" title="Mr.Sant"></div>
@@ -47,7 +44,24 @@ Inysol Innovative Technology solutions since 2009. She is well experienced in HR
                                     </div>
                                 </div>
                             
-                            </div><!--row -->
+                            </div>
+                            <div class="col-sm-4 services-full-width-text wow fadeInLeft">
+                                    <div class="white-bg">
+                                        <div align="center"><img class="img-responsive" src="images/profile_image_male.jpg" title="Mr.Sant"></div>
+                                         <h4 align="center">Mr. Vijay anand</h4>
+                                  <span align="center">Business Analyst</span>
+                                   <p> To convey expertise and enthusiasm within the forefronts of the business.
+
+Vijay anand is an excellent business analyst employee who can multitask and render high quality customer service. With six solid years of experience, Vijay  can expertly identify system requirements, which can minimize expenses and at the same time increase the quality or production.
+
+Vijay's well-rounded knowledge in software concepts provided an easy way to make non-technical people understand basic theories, which is more practical and convenient for them. He can also work within a time and has the knack for providing the best results even under time pressured circumstances.
+
+Vijay handled most project activities like documentation, information procurement and analysis, which made it possible for test plans to be carried out and accepted by the end users.
+
+Because of his good work ethics and untiring zeal to accomplish goals, vijay was awarded “best employee” for the year 2010</p>
+                                    </div>
+                                </div>
+                            <!--row -->
                              </div></div>
                         
 	                  <!--  <p>
