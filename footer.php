@@ -183,40 +183,7 @@
                             </div>
                  </div><!--/.col-md-2-->
 
-                <div class="col-md-4 col-sm-6">
-                         <h3>Office-Madurai &nbsp;<img src="images/india-flag.jpg" /></h3> 
-                         <div class="row">
-                                <div class="col-xs-1 col-sm-1"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
-                                <div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif">  <p>#4,Naghu nagar,
-Bethanmiapuram, <br/>
-                           Madurai, 625016,  India</p>
-                                </div>
-                                </div>
-                        
-                            <div class="row">
-                                <div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-                                <div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"><p>044 - 433 284 99</p></div>
-<div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-<div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"><p>+91 95858 82159</p></div>
-
-
-                     		 </div> 
-							 
-							  <div class="row">
-                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
-                                <div class="col-xs-11 col-sm-11"><a href="mailto:shmi@inysol.com" target="_blank">vijay@inysol.com</a></div>
-                            </div>
-							
-							
-                             <div class="row">
-                                <div class="col-xs-1 col-sm-1" style="text-indent:-9999px;"> .</div>
-                                <div class="col-xs-11 col-sm-11" style="text-indent:-9999px;">. </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-xs-1 col-sm-1" style="text-indent:-9999px;"> .</div>
-                                <div class="col-xs-11 col-sm-11" style="text-indent:-9999px;">. </div>
-                            </div>   
-                </div><!--/.col-md-2-->
+                 
 				
 				
 				
