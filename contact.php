@@ -129,7 +129,7 @@
 						  
 						  <!-- -->
 				 
-				   <!-- - Mumbai address->
+				   <!-- -->
                          <div class="contact-address">       
                             <h3 style="margin-top:10px;">Global Delivery Centre &nbsp;<img src="images/india-flag.jpg" /></h3> 
                            <div class="row">
