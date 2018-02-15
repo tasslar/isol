@@ -164,12 +164,12 @@
                          
                             <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-                                <div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"><p>+91 9004247476</p></div>
+                                <div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"><p>+91 73583 03167</p></div>
                             </div>
 							
 							 <div class="row">
                                  <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
-                                <div class="col-xs-11 col-sm-11"><a href="mailto:ragu@inysol.com" target="_blank">ragu@inysol.com</a></div>
+                                <div class="col-xs-11 col-sm-11"><a href="mailto:niha@inysol.com" target="_blank">niha@inysol.com</a></div>
                             </div>
 							
 							
@@ -188,20 +188,20 @@
                          <h3>Office –  Mumbai &nbsp;<img src="images/india-flag.jpg" /></h3> 
                            <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
-                                <div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"> <p>101, Silver Heights<br/>
-                            Sundar Nagar, Kalina, <br/>
-                            Mumbai 400029, India</p>
+                                <div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"> <p>#4, Unity building ,
+					Ghatkopar west, <br/>
+                            Mumbai 400086, India</p>
                                 </div>
                                 </div>
                          
                             <div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-                                <div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"><p>+91 9004247476</p></div>
+                                <div class="col-xs-11 col-sm-11" style="font-family:Arial, Helvetica, sans-serif"><p>+91 73583 03167</p></div>
                             </div>
 							
 							 <div class="row">
                                  <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
-                                <div class="col-xs-11 col-sm-11"><a href="mailto:ragu@inysol.com" target="_blank">ragu@inysol.com</a></div>
+                                <div class="col-xs-11 col-sm-11"><a href="mailto:niha@inysol.com" target="_blank">niha@inysol.com</a></div>
                             </div>
 							
 							
