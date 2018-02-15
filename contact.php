@@ -151,7 +151,8 @@
 							<div class="row">
                                 <div class="col-xs-1 col-sm-1"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
                                 <div class="col-xs-10 col-sm-10"><a href="mailto:shmi@inysol.com" target="_blank">shmi@inysol.com</a></div>
-								<div class="col-xs-10 col-sm-10"><a href="mailto:niha@inysol.com" target="_blank">niha@inysol.com</a></div>
+								<i class="fa fa-envelope-o" aria-hidden="true"></i></div>
+			<div class="col-xs-10 col-sm-10"><a href="mailto:niha@inysol.com" target="_blank">niha@inysol.com</a></div>
                             </div>
 							
 							
